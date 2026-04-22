@@ -1,0 +1,6 @@
+{
+  "name": "MISIS AI Homework Consultant",
+  "description": "AI-powered Telegram bot for students of the 'Interaction with Social Networks' course at NGTU MISIS. Analyzes homework and provides pass/fail feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
